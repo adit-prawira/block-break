@@ -1,2 +1,1 @@
-# Block Break
-# A 2D Unity Game
+# Block Break: A 2D Unity Game
